@@ -1,0 +1,27 @@
+.header{
+    background-color: rgb(218, 11, 11);
+    padding: 40px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-style: italic;
+    
+ }
+ .searchbox{
+    border-radius: 5px;
+ 
+ } 
+ 
+ .search-wrapper {
+    position: relative;
+    display: inline-block; 
+    width: 100%;
+  }
+  .searchicon {
+    position: absolute;
+     bottom: 25px;
+    transform: translate(160px,20px);
+    font-size: 1.2rem;
+    color: #180101;
+  }
+ 
+ 
